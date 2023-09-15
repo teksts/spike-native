@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  winner_team: one
+  other_team: one
+  play_area: one
+  is_validated: false
+  created_by: one
+
+two:
+  winner_team: two
+  other_team: two
+  play_area: two
+  is_validated: false
+  created_by: two
